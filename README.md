@@ -26,18 +26,7 @@ Areas I work with:
 - Data structures and custom containers
 - Database applications
 
----
-
 ## Selected Projects
-
-### [QModelViewController](https://github.com/VSRom/QModelViewController)
-
-A practical project for exploring application architecture with **C++, Qt and QML**.
-
-The project focuses on the interaction between the C++ backend and QML interface, Model/View concepts and separation of application logic.
-
-**C++ · Qt 6 · QML · CMake**
-
 ---
 
 ### [Editor-Light-DataBase](https://github.com/VSRom/Editor-Light-DataBase)
@@ -47,6 +36,16 @@ A Qt-based desktop application for working with databases.
 The project covers database interaction, table management, data editing and a graphical user interface.
 
 **C++ · Qt · Qt SQL · CMake**
+---
+
+
+### [QModelViewController](https://github.com/VSRom/QModelViewController)
+
+A practical project for exploring application architecture with **C++, Qt and QML**.
+
+The project focuses on the interaction between the C++ backend and QML interface, Model/View concepts and separation of application logic.
+
+**C++ · Qt 6 · QML · CMake**
 
 ---
 
