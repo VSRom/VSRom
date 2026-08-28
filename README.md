@@ -36,16 +36,6 @@ A Qt-based desktop application for working with databases.
 The project covers database interaction, table management, data editing and a graphical user interface.
 
 **C++ · Qt · Qt SQL · CMake**
----
-
-
-### [QModelViewController](https://github.com/VSRom/QModelViewController)
-
-A practical project for exploring application architecture with **C++, Qt and QML**.
-
-The project focuses on the interaction between the C++ backend and QML interface, Model/View concepts and separation of application logic.
-
-**C++ · Qt 6 · QML · CMake**
 
 ---
 
@@ -56,6 +46,14 @@ A client-server application for simulating communication between telecommunicati
 The project uses TCP networking and JSON-based communication and includes a Qt-based server and device clients.
 
 **C++ · Qt · QTcpServer · QTcpSocket · QJson · QThread · CMake**
+
+### [QModelViewController](https://github.com/VSRom/QModelViewController)
+
+A practical project for exploring application architecture with **C++, Qt and QML**.
+
+The project focuses on the interaction between the C++ backend and QML interface, Model/View concepts and separation of application logic.
+
+**C++ · Qt 6 · QML · CMake**
 
 ---
 
