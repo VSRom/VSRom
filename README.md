@@ -12,19 +12,16 @@ My projects range from low-level C++ implementations and data structures to Qt/Q
 
 **C++** · **Qt 6** · **QML** · **CMake** · **Git**
 
-Areas I work with:
+## Additional Skills & Ecosystems
+*   **Desktop & Mobile (Basic Knowledge):** C# / WPF (MVVM, XAML), Kotlin
+*   **Web Basics:** HTML5, CSS3 (QSS styling)
 
-- Modern C++
-- Qt / Qt Quick / QML
-- Model/View architecture
-- MVC and separation of application logic
-- C++ ↔ QML integration
-- Memory management and object lifetime
-- Smart pointers and resource ownership
-- Multithreading and synchronization
-- Networking and client-server applications
-- Data structures and custom containers
-- Database applications
+Areas I work with:
+- Modern C++ & Memory Management (Smart pointers, object lifetime)
+- Qt Model/View & MVC Architecture (C++ ↔ QML integration)
+- Multithreading & Synchronization (QThread, shared_mutex)
+- Networking & Client-Server Applications (QTcpServer/QTcpSocket, JSON)
+- Data Structures & Custom Containers
 
 ## Selected Projects
 ---
@@ -35,7 +32,7 @@ A Qt-based desktop application for working with databases.
 
 The project covers database interaction, table management, data editing and a graphical user interface.
 
-**C++ · Qt · Qt SQL · CMake**
+**C++ · Qt6 · Qt SQL · CMake**
 
 ---
 
@@ -45,7 +42,7 @@ A client-server application for simulating communication between telecommunicati
 
 The project uses TCP networking and JSON-based communication and includes a Qt-based server and device clients.
 
-**C++ · Qt · QTcpServer · QTcpSocket · QJson · QThread · CMake**
+**C++ · Qt6 · QTcpServer · QTcpSocket · QJson · QThread · CMake**
 
 ### [QModelViewController](https://github.com/VSRom/QModelViewController)
 
@@ -53,7 +50,7 @@ A practical project for exploring application architecture with **C++, Qt and QM
 
 The project focuses on the interaction between the C++ backend and QML interface, Model/View concepts and separation of application logic.
 
-**C++ · Qt 6 · QML · CMake**
+**C++ · Qt6 · QML · CMake**
 
 ---
 
