@@ -1,5 +1,3 @@
-# Vladimir
-
 **C++ / Qt / QML Developer**
 
 I develop software with a focus on **C++, Qt and QML**, application architecture, data models and systems-level concepts.
